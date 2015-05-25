@@ -30,7 +30,7 @@ You can also customize setting for following features:
 = Translators =
 
 If you have created your own language pack, or have an update of an existing one, you can send [gettext PO and MO files](http://codex.wordpress.org/Translating_WordPress) to [Us](http://vivacityinfotech.net/contact-us/) so that We can bundle it into this plugin.
-You can download the latest [POT file](http://plugins.svn.wordpress.org/wp-vi-post-duplicator/tags/1.0/languages/wvpd.pot).
+You can download the latest [POT file](http://plugins.svn.wordpress.org/wp-vi-duplicate-posts/tags/1.0/languages/wvpd.pot).
 
 
 = Rate Us / Feedback =
