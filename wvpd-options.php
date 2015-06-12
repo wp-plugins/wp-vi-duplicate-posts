@@ -268,6 +268,21 @@ Enable checkbox for copy post/page into another post-types, in post/page edit sc
 	<a href="http://bit.ly/1icl56K" target="_blank"><img class="donate" src="<?php echo plugins_url( 'assets/paypal.gif' , __FILE__ ); ?>" width="150" height="50" title="<?php _e( 'Donate Here', 'wvpd' ); ?>"></a>		
   </div> 
 </div>	
+<div class="bottom">
+		    <h3 id="donatehere-comments-wvpd" class="title"><?php _e( 'Purchase Paid Plugin', 'wvpd' ); ?></h3>
+     <div id="donateheretbl-comments-wvpd" class="togglediv">  
+     <p><?php _e( 'If you want to purchase , please click on below image.', 'wvpd' ); ?></p>
+	<a href="http://bit.ly/1HZGRBg" target="_blank"><img class="donate" src="<?php echo plugins_url( 'assets/woo_frontend_banner.png' , __FILE__ ); ?>" width="336" height="280" title="<?php _e( 'Donate Here', 'wvpd' ); ?>"></a>		
+  </div> 
+</div>
+<div class="bottom">
+		    <h3 id="donatehere-comments-wvpd" class="title"><?php _e( 'Purchase Paid Plugin', 'wvpd' ); ?></h3>
+     <div id="donateheretbl-comments-wvpd" class="togglediv">  
+     <p><?php _e( 'If you want to purchase , please click on below image.', 'wvpd' ); ?></p>
+	<a href="http://bit.ly/1Gwp4Vv" target="_blank"><img class="donate" src="<?php echo plugins_url( 'assets/blue_frog_banner.png' , __FILE__ ); ?>" width="336" height="280" title="<?php _e( 'Donate Here', 'wvpd' ); ?>"></a>		
+  </div> 
+</div>
+
 <div class="bottom">  
  <h3 id="aboutauthor-comments-wvpd" class="title">About The Author</h3>
      <div id="aboutauthortbl-comments-wvpd" class="togglediv">  
